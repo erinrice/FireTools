@@ -60,8 +60,6 @@ Friend Class frmFire_Point
 		Me.Feature_type_cb.AddItem(("Operations Point"))
 		Me.Feature_type_cb.AddItem(("Ramp"))
 		Me.Feature_type_cb.AddItem(("Refuge Site"))
-		Me.Feature_type_cb.AddItem(("Road Closure active"))
-		Me.Feature_type_cb.AddItem(("Road Closure planned"))
 		Me.Feature_type_cb.AddItem(("Rotary Wing"))
 		Me.Feature_type_cb.AddItem(("Spot Fire"))
 		Me.Feature_type_cb.AddItem(("Staging Area"))

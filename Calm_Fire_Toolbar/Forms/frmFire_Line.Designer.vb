@@ -189,7 +189,7 @@ End Sub
 		Me.Feature_type_cb.TabIndex = 2
 		Me.Feature_type_cb.Text = "Estimate Fire Edge"
 		Me.Feature_type_cb.Font = New System.Drawing.Font("Tahoma", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-		Me.Feature_type_cb.ItemDataValues = "Estimate\ Fire\ Edge\r0\rPredicted\ Fire\ Edge\r0\rFire\ Stopped\r0\rFire\ Line\ Constructed\r0\rPatrol\ Only\r0\rControl\ Line\ Proposed\r0\rControl\ Line\ Constructed\r0\rBackburn\ Line\r0"
+        Me.Feature_type_cb.ItemDataValues = "Estimate\ Fire\ Edge\r0\rPredicted\ Fire\ Edge\r0\rFire\ Stopped\r0\rFire\ Line\ Constructed\r0\rPatrol\ Only\r0\rControl\ Line\ Proposed\r0\rControl\ Line\ Constructed\r0\rBackburn\ Line\r0rRoad\ Closed\r0"
 		'
 		' OK_btn
 		'
